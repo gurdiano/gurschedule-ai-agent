@@ -1,0 +1,24 @@
+{
+    "scheduler": {
+        "id": "integer",
+        "hour": "integer",
+        "begin": "date",
+        "annotation": "string",
+        "day": {
+            "id": "integer",
+            "date": "date"
+        },
+        "task": {
+            "id": "integer",
+            "name": "string",
+            "duration": "integer",
+            "icon_id": "integer"
+        },
+        "priority": {
+            "id": "integer",
+            "name": "string",
+            "color": "string",
+            "icon_id": "integer"
+        }
+    }
+}

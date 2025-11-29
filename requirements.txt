@@ -1,0 +1,4 @@
+python-dotenv
+flet
+SQLAlchemy
+google-genai
