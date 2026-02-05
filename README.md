@@ -1,6 +1,7 @@
 # GurSchedule AI Agent
 
 ![GurSchedule AI Agent](https://pub-5e8ae4f6596d4f7eb0ac9e44a84115dc.r2.dev/GurSchedule/images/GurScheudleAi-1.png)
+
 🔗 **Portfolio:** https://gurdiano.com/projects/GurSchedule%20AI%20/54
 
 ## Overview
